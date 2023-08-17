@@ -5,6 +5,7 @@ public class HomeWorkOne {
         taskOne();
     }
     public static void taskOne() {
-        System.out.println("Решение первой задачи");
+        System.out.println("Решение первой задачи!");
     }
 }
+//https://github.com/Elizarav/LessonForGit/pull/1
